@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css/styles.css" />
+    <title>Desafio: Decodificador</title>
+  </head>
+  <body>
+    <header class="logo">
+      <img src="./assets/Logo.png" alt="Logotipo da Alura" />
+    </header>
+    <main class="conteudo__principal">
+      <div class="conteudo__principal__inserirTexto">
+        <textarea
+          name="inserirTexto"
+          id="inserirTexto"
+          placeholder="Digite seu texto"
+        ></textarea>
+        <p class="conteudo__principal__inserirTexto__aviso">
+          <img src="./assets/exclamacao.png" alt="" /> Apenas letras minúsculas
+          e sem acento.
+        </p>
+        <div class="conteudo__principal__botoes">
+          <button class="btn" id="criptografar" onclick="criptografar()">
+            Criptografar
+          </button>
+          <button class="btn" id="descriptografar" onclick="descriptografar()">
+            Descriptografar
+          </button>
+        </div>
+      </div>
+      <div class="conteudo__principal__mensagemErro">
+        <div class="conteudo__principal__mensagemErro__img">
+          <img
+            src="./assets/High quality products 1 1.png"
+            alt="Garoto com lupa"
+          />
+        </div>
+        <h1 id="titulo__erro">Nenhuma mensagem encontrada</h1>
+        <p>Digite um texto que voce deseja criptografar ou descriptografar.</p>
+      </div>
+      <div class="resultado">
+        <p id="resultado"></p>
+        <button class="btn" id="copiar" onclick="copiarTexto()">Copiar</button>
+      </div>
+    </main>
+    <footer></footer>
+    <script src="./scripts/scripts.js"></script>
+  </body>
+</html>
