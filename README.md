@@ -17,10 +17,6 @@ O **Decodificador de Texto** é uma ferramenta prática para criptografar e desc
 
 Para utilizar a ferramenta, acesse o seguinte link: [Decodificador de Texto](https://erick05081.github.io/decodificador/).
 
-## 📹 Vídeo de Demonstração
-
-[Assista ao vídeo sobre o projeto](https://www.youtube.com/watch?v=EXEMPLO)
-
 ## 📦 Instalação (Opcional)
 
 1. **Clone o Repositório:**
