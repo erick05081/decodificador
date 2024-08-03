@@ -2,24 +2,26 @@
 
 ## 🚀 Descrição
 
-O **Decodificador de Texto** é uma ferramenta prática para criptografar e descriptografar mensagens. Ideal para quem precisa transformar texto simples em um formato criptografado e vice-versa, com uma interface intuitiva que facilita o uso.
+O **Decodificador de Texto** é uma ferramenta prática para criptografar e descriptografar mensagens.
+
+![Demonstração do Projeto](https://media.giphy.com/media/OuNSCTtPZiIQMq22Op/giphy.gif)
 
 ## ✨ Funcionalidades
 
 - **Receber um Texto:** Insira qualquer texto para ser criptografado ou descriptografado.
 - **Criptografar/Descriptografar:** Converta seu texto em um formato criptografado ou recupere o texto original.
-- **Exibição do Texto:** Veja o resultado da criptografia ou descriptografiação diretamente na interface.
-- **Botão de Copiar:** Copie rapidamente o texto exibido para a área de transferência com um único clique.
+- **Exibição do Texto:** Veja o resultado diretamente na interface.
+- **Botão de Copiar:** Copie rapidamente o texto exibido.
 
 ## 🌐 Uso
 
-Para utilizar a ferramenta, acesse o seguinte link: [Decodificador de Texto](https://erick05081.github.io/decodificador/). 
+Para utilizar a ferramenta, acesse o seguinte link: [Decodificador de Texto](https://erick05081.github.io/decodificador/).
 
-Simplesmente insira o texto, escolha a ação desejada e visualize o resultado. Use o botão de copiar para facilitar o uso.
+## 📹 Vídeo de Demonstração
+
+[Assista ao vídeo sobre o projeto](https://www.youtube.com/watch?v=EXEMPLO)
 
 ## 📦 Instalação (Opcional)
-
-Se você deseja executar o projeto localmente, siga os passos abaixo:
 
 1. **Clone o Repositório:**
 
